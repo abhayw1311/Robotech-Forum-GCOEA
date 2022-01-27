@@ -1,0 +1,30 @@
+    <section class="errandcontent">
+        <h1 style="color: white; text-transform: uppercase; letter-spacing: 1mm; font-size: 28pt"> Our On Going Errands...</h1>
+        <div class="eventcontent1bg">
+            <div class="content1">
+               <h1 style="color: white;  text-transform: uppercase; line-height: 0.02mm; letter-spacing: 1mm; font-size: 24pt; font-weight: bolder; padding-right: 400px;"> RoboCon </h1>
+               <h4 style="color: white; font-style: italic; line-height: 0.01mm; padding-right: 235px;">The ABU Asia-Pacific Robot Contest</h4><br />
+               <h2 style="color: white; text-align: left; padding-left: 600px; font-size: 17pt; line-height: 0.5;">ABU RoboCon</h2>
+               <p style="color: white; text-align: left; padding-left: 600px; padding-right: 10px; font-size: 11pt; line-height: 1.5;">The ABU Asia-Pacific Robot Contest (ABU Robocon) is an Asian-Oceanian college robot competition, founded in 2002 by Asia-Pacific Broadcasting Union. In the competition robots compete to complete a task within a set period of time. The contest aims to create friendship among young people with similar interests who will lead their countries in the 21st century, as well as help advance engineering and broadcasting technologies in the region. The event is broadcast in many countries through ABU member broadcasters.</p>
+               <h4 style="color: white; text-align: left; padding-left: 600px; font-size: 18pt; line-height: 0.5;"> RoboCon 2021 Theme </h4>
+               <p style="color: white; text-align: left; padding-left: 600px; padding-right: 10px; font-size: 11pt; line-height: 1.5;">ABU Robocon 2021 will be held at Jimo, China and the game will be based on the traditional game of East Asian countries pitch-pot, or throwing arrows to a pot. In this game, each team designs two robots. One robot can pick up arrows and throw them to the five pots located on the field, but is restricted to the outer area of the field. The other robot, in addition to throwing arrows from the outer area, can navigate through both the outer and inner area of the field, rotating pots, blocking throwing attempts of the opponent, or handing leftover arrows on the field to the first robot. Team scores point based on the number of arrows thrown into each pot, but if a team got the arrow to all five pots, they will achieve the K.O victory which immediately ends the game.</p>
+            </div>
+        </div>
+
+        <div class="eventcontent2bg">
+            <div class="content2">
+               <h1 style="color: white;">Qudruped</h1><br />
+              <p></p>
+            </div>
+        </div>
+
+        <div class="eventcontent3bg">
+          <div class="content3">
+             <h1 style="color: white;">Exo-Skeleton</h1><br />
+
+          </div>
+        </div>
+
+        <br />
+        <h4 style="color:white; padding-top: 50px; padding-bottom: 50px; font-size: 16pt;"> For more information on ongoing or completed Project check out our <a href="#project">Project Section</a>.</h4>
+    </section>
