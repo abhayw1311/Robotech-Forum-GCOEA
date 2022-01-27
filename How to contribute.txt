@@ -1,0 +1,18 @@
+👉🏻 Git-Commands-and-Workflow
+Below I have listed the correct ways to use and collaborate on github...
+🤔 Q. How to upload my project from my computer to github?
+Make sure that you have GitBash installed and connected to your Github account. You can find many YouTube videos on how to do this.
+Open your local project folder using GitBash
+git init use this command to initialize your repository.
+git add . use this command to add your files into git.
+git commit -m "put a comment here" this command will add a comment so that yo later know what was the commit about.
+git branch -M main This command will set the branch to main.
+git remote add origin https://yourgithubrepo.git This will add your github repo link to remote and thus link it to your local repo.
+git push -u origin main This is final command to push all the files online inside the repo.
+Once this is done, you just need to do 4th, 5th and 8th command in order everytime to update the online repository with any changes in local repo.
+🤔 Q. How to collaborate on Github?
+Fork the repo that you wish to collaborate on.
+Clone this forked repo into your local computer using GitBash command git clone forkedrepolink.git
+Then connect your local repo to main repo using: git remote add upstream mainrepolink.git
+git fetch upstream use this command and git rebase upstream/main this one to sync main repo and local repo.
+Make changes into local repo --> Push changes into forked repo --> Send Pull Request to main repo
